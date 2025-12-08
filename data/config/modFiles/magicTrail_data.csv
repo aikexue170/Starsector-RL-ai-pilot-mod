@@ -1,0 +1,8 @@
+trail,projectile,sprite,minLength,fadeIn,duration,fadeOut,sizeIn,sizeOut,colorIn,colorOut,opacity,textLength,textScroll,randomTextureOffset,distance,dispersion,drift,frameOffsetMult,fadeOnFadeOut,angleAdjustment,additive,velocityIn,velocityOut,randomVelocity,angle,rotationIn,rotationOut,randomRotation,renderBelowExplosions
+,#弹丸id,,#分段渲染单段长度,#淡入时间,#不透明时间,#淡出时间,#初始宽度,#最终宽度,#初始颜色,#最终颜色,#不透明度,#纹理长度,#纹理滚动，正数向后,#随机纹理起始位置,#与射弹的距离，正数向前,#随机量变化的速度,#继承多少舰船侧移动量,,#尾迹随射弹淡出,#调整弹丸方向,#叠加,#节点向后初始移动速度，注意大于0是向后,#节点向后最终移动速度，堆积则产生扭曲效果，必须配合后面的rotation设置起效，垂直旋转越大，越扭曲,#随机前边两列,#贴图初始垂直角度,#贴图初始垂直旋转速度,#贴图最终垂直旋转速度,#随机前面2项旋转的方向,
+Positron_rocket,Positron_rocket,base_trail_heavySmoke,20,0.1,0.1,0.5,20,50,"[0,255,255]","[100,100,100]",1,-20,10,TRUE,5,2,1,0,FALSE,FALSE,TRUE,5,5,0,0,0,180,true,true
+torrent_shot,torrent_shot,base_trail_zapWithCore,10,0.1,0.1,0.5,10,50,"[0,255,255]","[9,110,237]",0.8,-300,50,TRUE,5,2,0,0,FALSE,FALSE,TRUE,0,100,0,0,0,180,true,false
+spore_shot,spore_shot,base_trail_zapWithCore,10,0.1,0.1,0.5,10,50,"[255,0,0]","[255,0,255]",0.8,-300,50,TRUE,5,2,0,0,FALSE,FALSE,TRUE,0,100,0,0,0,180,true,false
+punishment_missile_1,punishment_missile,base_trail_zapWithCore,10,0.1,0.1,0.5,10,30,"[255,0,0]","[255,0,255]",0.8,-200,50,TRUE,5,2,0.8,0,FALSE,FALSE,TRUE,20,50,0,0,0,180,true,false
+punishment_missile_2,punishment_missile,base_trail_zapWithCore,10,0.1,0.1,0.5,10,50,"[80,0,80]","[150,0,80]",0.8,-300,50,TRUE,5,2,0.8,0,FALSE,FALSE,TRUE,20,50,0,30,0,180,false,false
+punishment_missile_3,punishment_missile,base_trail_zapWithCore,10,0.1,0.1,0.5,10,50,"[80,0,80]","[150,0,80]",0.8,-300,50,TRUE,5,2,0.8,0,FALSE,FALSE,TRUE,20,50,0,-30,0,180,false,false

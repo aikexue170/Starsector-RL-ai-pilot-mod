@@ -1,0 +1,54 @@
+{
+	"ARR_diffuse":{
+		"glowSprite":"graphics/ARR/hullstyle/engineglow32s.png", #发光图片
+		"glowOutline":"graphics/ARR/hullstyle/engineflame32.png", #火舌图片
+		"omegaMode":false,
+		"glowSizeMult":0.5,#辉光大小
+		"glowAlternateColor":[255,0,185,245],#交替色
+
+
+		"engineColor":[255,0,0,245],#引擎颜色
+		"contrailParticleSizeMult":0.5,#尾迹粒径
+		"contrailParticleDuration":1,#尾迹粒子持续时间
+		"contrailParticleFinalSizeMult":0.1,#尾迹粒子最终尺寸
+		"contrailMaxSpeedMult":0.5,#航迹最大速度
+		"contrailAngularVelocityMult":0,#航迹角速度变换
+		"contrailColor":[111,0,0,60],#航迹云的颜色
+		"contrailCampaignColor":[111,0,0,85],#战役色彩
+		"type":"GLOW", # GLOW or SMOKE
+	},
+	"ARR_focus":{
+		"glowSprite":"graphics/ARR/hullstyle/engineglow32s.png",
+		"glowOutline":"graphics/ARR/hullstyle/engineflame32.png",
+		"omegaMode":true,
+		"glowSizeMult":1,
+		"glowAlternateColor":[125,105,255,245],
+
+
+		"engineColor":[152,0,255,245],
+		"contrailParticleSizeMult":0,
+		"contrailParticleDuration":0,
+		"contrailParticleFinalSizeMult":0,
+		"contrailMaxSpeedMult":0,
+		"contrailAngularVelocityMult":0,
+		"contrailColor":[123,0,115,60],
+		"contrailCampaignColor":[150,120,100,75],
+		"type":"SMOKE",
+	},
+	"ARR_ring":{
+		"glowSprite":"graphics/ARR/hullstyle/engineglowring.png",
+		"glowOutline":"graphics/ARR/hullstyle/engineflamering.png",
+		"omegaMode":true,
+		"glowSizeMult":1,
+		"glowAlternateColor":[255,0,0,245],
+		"engineColor":[183,0,125,245],
+		"contrailParticleSizeMult":0,
+		"contrailParticleDuration":0,
+		"contrailParticleFinalSizeMult":0,
+		"contrailMaxSpeedMult":0,
+		"contrailAngularVelocityMult":0,
+		"contrailColor":[183,0,125,60],
+		"contrailCampaignColor":[183,0,125,75],
+		"type":"GLOW",
+	}
+}

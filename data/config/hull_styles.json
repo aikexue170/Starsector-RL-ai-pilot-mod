@@ -1,0 +1,50 @@
+{
+	# The following hull style ids are reserved and can not be used:
+	# "sounds", "DEFAULT", "FIGHTER", "FRIGATE", "DESTROYER", "CRUISER", "CAPITAL_SHIP"
+
+	"ARR":{
+		"hyperspaceJitterColor":[166,0,0,200],#大地图舰船超空间折跃引擎闪烁
+		"baseCampaignExplosionColor":[241,81,219,255],#引擎战役里爆炸的颜色
+		"baseCombatExplosionColor":[241,81,219,255], # 引擎战斗爆炸颜色
+		"combatExplosionNonFlashColorOverride":[216,81,241,255], # 战斗爆炸非闪光颜色覆盖the more billowy explosion
+		"fighterRepairFlickerColor":[184,0,64,255],#小飞机损坏时的闪烁光点
+		"fighterChipIconColor":[200,0,0,255],#小飞机图标颜色
+		"weaponDisabledExplosionColor":[200,0,0,255],#武器失效颜色
+		"shieldRingColor":[255,0,0,255],#护盾中心颜色
+		"shieldInnerColor":[170,3,75,75],#护盾颜色
+		"fluxVentCoreColor":[255,0,0,255],#辐能排散中心颜色
+		"fluxVentFringeColor":[50,0,78,255],#辐能排散边缘颜色
+		"fluxVentTextureSheet":"graphics/ARR/fx/nebula_colorless.png", # optional, this is the default value
+		"fluxVentRadialTexture":"graphics/ARR/fx/radial_fx.png", # optional, this is the default value
+		"engineLoopSet":"engine_loop", 					# id of entry in sounds.json
+		"engineAccelerateSet":"engine_accelerate",		# id of entry in sounds.json
+		"empLoopSet":"emp_loop",						# id of entry in sounds.json
+		"fluxLoopSet":"flux_loop",						# id of entry in sounds.json
+		"ventFluxSet":"vent_flux",						# id of entry in sounds.json
+		"shieldBurnoutSet":"shield_burnout",			# id of entry in sounds.json
+		"shieldLowerSet":"shield_lower",				# id of entry in sounds.json
+		"shieldRaiseSet":"shield_raise",				# id of entry in sounds.json
+		"explosionShipSet":"explosion_ship",			# id of entry in sounds.json
+		"damageDecalSheet":"graphics/damage/damage_decal_sheet_base.png",
+		"damageDecalGlowSheet":"graphics/damage/damage_decal_sheet_glow.png",
+
+		#"colorShiftCovers":true,
+		"coversColorShiftAmount":0,  # 0 to 1
+		"coversMatchShipBrightness":true,
+
+		#"colorShiftCovers":false,
+		"slotCoverSmallTurret":"graphics/weapons/covers/cover_turret_lowtech_small.png",
+		"slotCoverSmallHardpoint":"graphics/weapons/covers/cover_hardpoint_lowtech_small.png",
+		"slotCoverMediumTurret":"graphics/weapons/covers/cover_turret_lowtech_medium.png",
+		"slotCoverMediumHardpoint":"graphics/weapons/covers/cover_hardpoint_lowtech_medium.png",
+		"slotCoverLargeTurret":"graphics/weapons/covers/cover_turret_lowtech_large.png",
+		"slotCoverLargeHardpoint":"graphics/weapons/covers/cover_hardpoint_lowtech_large.png",
+
+		"dHullOverlayLight":"graphics/damage/dmod_overlay_lowtech_light.png",
+		"dHullOverlayMedium":"graphics/damage/dmod_overlay_lowtech_medium.png",
+		"dHullOverlayHeavy":"graphics/damage/dmod_overlay_lowtech_heavy.png"
+    }
+}
+
+
+

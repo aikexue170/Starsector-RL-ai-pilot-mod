@@ -1,0 +1,25 @@
+{
+	"abyss_star":{
+		"name":"深井",
+		"tilt":0,
+		"pitch":0,
+		"rotation":-5,
+		"planetColor":[10,0,5,255],
+		"atmosphereThickness":0.4,
+		"atmosphereThicknessMin":15,
+		"atmosphereColor":[10,0,5,150],
+		"texture":"graphics/planets/star_white.jpg",
+		"icon":"graphics/icons/blackhole.png",
+		"starscapeIcon":"graphics/ARR/starscape/abyss.png",
+		"iconColor":[255,30,60,220],
+		"starCoronaSprite":"graphics/ARR/fx/abyss_glow.png",
+		"starCoronaColor":[255,40,80,255],
+		"starCoronaSizeMult":6.5,
+		"isStar":true,
+		"isBlackHole":true,
+		"scaleMultMapIcon":2.8,
+		"scaleMultStarscapeIcon":2.8,
+		"lightPosition":[0,0,12]
+	}
+}
+

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19baa304-c041-40a7-a3ad-cbc38dca8c86" name="更改" comment="PPO成功了！">
+      <change afterPath="$PROJECT_DIR$/../PPO_python_trainer/PPO_train_in_starsector_continuous.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PPO_python_trainer/ship_controller_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/.idea/DQN_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/.idea/PPO_python_trainer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/PPO_train_in_starsector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/PPO_train_in_starsector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/PPO_use_in_starsector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/PPO_use_in_starsector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/PPO_virtual_env_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/diagnose_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/dqn_agent_LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/dqn_agent_LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/dqn_agent_MLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/dqn_agent_MLP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/dqn_agent_advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/dqn_agent_advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/dqn_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/dqn_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/dqn_model_advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/dqn_model_advanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/fix_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/second_train_MLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/second_train_MLP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/train_in_starsector_LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/train_in_starsector_LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/train_in_starsector_MLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/train_in_starsector_MLP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/train_in_starsector_advanced_11state.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/train_in_starsector_advanced_11state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/use_in_starsector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/use_in_starsector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPO_python_trainer/各个文件的使用说明" beforeDir="false" afterPath="$PROJECT_DIR$/../PPO_python_trainer/abandoned_code/各个文件的使用说明" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PPO_python_trainer" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34NXJ1aQKiZ8j96ct1LofWZ5fIZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.PPO_train_in_starsector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PPO_train_in_starsector_continuous.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PPO_train_in_virtual_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PPO_use_in_starsector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagnose_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dqn_agent_LSTM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fix_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ship_controller_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.starsector_gym_env.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_in_starsector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_in_starsector_LSTM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_in_starsector_MLP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_in_starsector_advanced_11state.executor&quot;: &quot;Run&quot;,
+    &quot;Python.use_in_starsector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.virtual_env_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/GAME/长篇《远星》/《远星》0.98a/Starsector/mods/Abyssal Redemption/DQN_python/models&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GAME\长篇《远星》\《远星》0.98a\Starsector\mods\Abyssal Redemption\DQN_python\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GAME\长篇《远星》\《远星》0.98a\Starsector\mods\Abyssal Redemption\PPO_python_trainer\abandoned_code" />
+      <recent name="E:\GAME\长篇《远星》\《远星》0.98a\Starsector\mods\Abyssal Redemption\DQN_python\previous_models" />
+      <recent name="E:\GAME\长篇《远星》\《远星》0.98a\Starsector\mods\Abyssal Redemption\DQN_python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PPO_train_in_starsector_continuous">
+    <configuration name="PPO_train_in_starsector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO_python_trainer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PPO_train_in_starsector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PPO_train_in_starsector_continuous" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO_python_trainer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PPO_python_trainer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PPO_python_trainer/PPO_train_in_starsector_continuous.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PPO_train_in_virtual_env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO_python_trainer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PPO_train_in_virtual_env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PPO_use_in_starsector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO_python_trainer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PPO_use_in_starsector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ship_controller_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PPO_python_trainer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PPO_python_trainer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PPO_python_trainer/ship_controller_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PPO_train_in_starsector_continuous" />
+        <item itemvalue="Python.ship_controller_test" />
+        <item itemvalue="Python.PPO_train_in_starsector" />
+        <item itemvalue="Python.PPO_use_in_starsector" />
+        <item itemvalue="Python.PPO_train_in_virtual_env" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="19baa304-c041-40a7-a3ad-cbc38dca8c86" name="更改" comment="" />
+      <created>1761054928163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761054928163</updated>
+      <workItem from="1761054929182" duration="34000" />
+      <workItem from="1761055195121" duration="1608000" />
+      <workItem from="1761117178647" duration="307000" />
+      <workItem from="1761118510037" duration="105000" />
+      <workItem from="1761118795324" duration="146000" />
+      <workItem from="1761119906626" duration="5169000" />
+      <workItem from="1761139192088" duration="1850000" />
+      <workItem from="1761141833739" duration="2079000" />
+      <workItem from="1761143933458" duration="31000" />
+      <workItem from="1761144149629" duration="102000" />
+      <workItem from="1761144259905" duration="32000" />
+      <workItem from="1761144315416" duration="658000" />
+      <workItem from="1761211099365" duration="8485000" />
+      <workItem from="1761224383838" duration="2463000" />
+      <workItem from="1761227903250" duration="1798000" />
+      <workItem from="1761277457148" duration="8873000" />
+      <workItem from="1761294692064" duration="1046000" />
+      <workItem from="1761296383273" duration="2000" />
+      <workItem from="1761296409633" duration="2129000" />
+      <workItem from="1761298578418" duration="17658000" />
+      <workItem from="1761354908153" duration="2081000" />
+      <workItem from="1761357058796" duration="1961000" />
+      <workItem from="1761359087746" duration="5000" />
+      <workItem from="1761364928336" duration="31995000" />
+      <workItem from="1761449904502" duration="6943000" />
+      <workItem from="1761471296014" duration="8084000" />
+      <workItem from="1761521955576" duration="5797000" />
+      <workItem from="1761607784307" duration="6451000" />
+      <workItem from="1761718542460" duration="1572000" />
+      <workItem from="1761721306915" duration="806000" />
+      <workItem from="1761722186478" duration="602000" />
+      <workItem from="1761810198913" duration="996000" />
+      <workItem from="1761813269718" duration="8049000" />
+      <workItem from="1764858739019" duration="953000" />
+    </task>
+    <task id="LOCAL-00001" summary="PPO成功了！">
+      <option name="closed" value="true" />
+      <created>1761455022963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761455022963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PPO成功了！" />
+    <option name="LAST_COMMIT_MESSAGE" value="PPO成功了！" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DQN_python$PPO_train_in_virtual_env.coverage" NAME="PPO_train_in_virtual_env 覆盖结果" MODIFIED="1761396014275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$fix_model.coverage" NAME="fix_model 覆盖结果" MODIFIED="1761358459455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$virtual_env_test.coverage" NAME="virtual_env_test 覆盖结果" MODIFIED="1761394435346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$train_in_starsector_advanced_11state.coverage" NAME="train_in_starsector_advanced_11state 覆盖结果" MODIFIED="1761387905593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$train_in_starsector_MLP.coverage" NAME="train_in_starsector_MLP 覆盖结果" MODIFIED="1761382233352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$PPO_use_in_starsector.coverage" NAME="PPO_use_in_starsector 覆盖结果" MODIFIED="1761450254818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$ship_controller_test.coverage" NAME="ship_controller_test 覆盖结果" MODIFIED="1761811247768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PPO_python_trainer" />
+    <SUITE FILE_PATH="coverage/DQN_python$PPO_train_in_starsector_continuous.coverage" NAME="PPO_train_in_starsector_continuous 覆盖结果" MODIFIED="1761821487948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PPO_python_trainer" />
+    <SUITE FILE_PATH="coverage/DQN_python$dqn_agent_LSTM.coverage" NAME="dqn_agent_LSTM 覆盖结果" MODIFIED="1761224357737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$use_in_starsector.coverage" NAME="use_in_starsector 覆盖结果" MODIFIED="1761358913274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$starsector_gym_env.coverage" NAME="starsector_gym_env 覆盖结果" MODIFIED="1761373392484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$second_train.coverage" NAME="second_train 覆盖结果" MODIFIED="1761357567448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$train_in_starsector_LSTM.coverage" NAME="train_in_starsector_LSTM 覆盖结果" MODIFIED="1761307407631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$train_in_starsector.coverage" NAME="train_in_starsector 覆盖结果" MODIFIED="1761309124676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$diagnose_model.coverage" NAME="diagnose_model 覆盖结果" MODIFIED="1761358598369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DQN_python$PPO_train_in_starsector.coverage" NAME="PPO_train_in_starsector 覆盖结果" MODIFIED="1761641333786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
